@@ -37,4 +37,4 @@ I'd like to continue by focusing on interactivity within my projects.
 ## Author
 
 - Frontend Mentor - [@briangaff](https://www.frontendmentor.io/profile/briangaff)
-- CSS Battle - [@briangaff] (https://cssbattle.dev/player/briangaff)
+- CSS Battle - [@briangaff](https://cssbattle.dev/player/briangaff)

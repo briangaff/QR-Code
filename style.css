@@ -14,11 +14,12 @@ html, body{
   border-radius: 20px;
 }
 .card{
-  width:300px;
+  width:280px;
   text-align: center;
   background:white;
   border-radius: 30px;
   padding: 20px;
+  box-shadow: 5px 5px 10px hsl(220, 15%, 55%);
 }
 h2{
   font-family: Outfit;
@@ -27,6 +28,9 @@ h2{
 p{
   font-family: Outfit;
   font-weight: 400;
+}
+footer{
+  margin-top:100px;
 }
 .attribution {
   font-size: 11px; text-align: center;
